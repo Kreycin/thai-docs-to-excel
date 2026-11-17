@@ -1,0 +1,6 @@
+.venv/
+text-model/
+llm/
+*.gguf
+*.xlsx
+__pycache__/
